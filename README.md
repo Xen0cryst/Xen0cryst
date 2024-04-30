@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Zaki Al Marzan</h1>
 <h3 align="center">A high school student.</h3>
 
-- 🌱 I’m currently learning **C++, Data Structure, Algorithms.**
+- 🌱 I’m currently learning **C++, DP, Algorithms.**
 - 💬 Ask me about **C,Python**
 - ✉️ My E-mail Address: **marzan_dip@yahoo.com**
 - ⚡ Fun fact **I am also a Web 3.0 Enthusiast**
