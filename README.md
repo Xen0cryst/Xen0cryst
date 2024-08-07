@@ -3,8 +3,8 @@
 <h3 align="center">A high school student.</h3>
 
 - 🌱 I’m currently learning **C++, DP, Algorithms.**
-- 💬 Ask me about **C,Python**
-- ✉️ My E-mail Address: **marzan_dip@yahoo.com**
+- 💬 Ask me about **C, C++, Python**
+- ✉️ My E-mail Address: **zakialmarzan@outlook.com**
 - ⚡ Fun fact **I am also a Web 3.0 Enthusiast**
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
