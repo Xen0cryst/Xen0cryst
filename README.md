@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++, DP, Algorithms.**
 - 💬 Ask me about **C, C++, Python**
-- ✉️ My E-mail Address: **zakialmarzan@outlook.com**
+- ✉️ My E-mail Address: **contact@zakialmarzan.com**
 - ⚡ Fun fact **I am also a Web 3.0 Enthusiast**
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
